@@ -1,1 +1,1 @@
-# Rock_Paper_Scissors_Odin
+# Rock_Paper_Scissors_Odin_Project
